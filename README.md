@@ -11,6 +11,7 @@
 
 ## Introduction
 This digital portfolio represents my professional and personal growth throughout the Work Readiness Training for PRP372S. It includes evidence and reflections on five critical areas of workplace readiness: Business Communication, Interview Skills, Mock Interview, Professional Networking, and Workplace Etiquette.  
+  
 Each section includes artefacts and reflections based on the STAR Technique (Situation, Task, Action, Result) to demonstrate how I developed essential skills for success in the ICT industry.
 
 ## (1) Business Communication
@@ -41,7 +42,7 @@ Before securing my internship, I attended a professional interview skills worksh
   
 ### Reflection (STAR Technique)
 **Situation:**
-When I began applying for QA internships, I realized that my technical skills alone would not be enough — I needed to effectively communicate my experience, strengths, and problem-solving abilities. During a mock interview session organized by the program, I was given the opportunity to practice real-world interview scenarios.  
+When I began applying for QA internships, I realized that my technical skills alone would not be enough, I needed to effectively communicate my experience, strengths, and problem-solving abilities. During a mock interview session organized by the program, I was given the opportunity to practice real-world interview scenarios.  
   
 **Task:**
 My goal was to improve how I articulated my thoughts during interviews, especially when describing projects, teamwork experiences, and problem-solving strategies. I aimed to use structured and concise responses that left a strong impression.  
@@ -50,11 +51,11 @@ My goal was to improve how I articulated my thoughts during interviews, especial
 I prepared by researching the company and reviewing common STAR-based questions. I practiced responses such as “Describe a time you handled a difficult bug” and “How do you manage deadlines under pressure?” I recorded myself answering these questions to analyze tone, clarity, and posture. During the mock interview, I focused on staying calm, maintaining eye contact, and confidently explaining my experience with bug tracking and QA documentation.  
   
 **Result:**
-The feedback I received was positive — my interviewer highlighted my professional tone and clear technical understanding. When I attended my real internship interview later, I applied the same techniques and successfully secured the position. This experience enhanced not only my confidence but also my self-awareness as a professional communicator.  
+The feedback I received was positive, my interviewer highlighted my professional tone and clear technical understanding. When I attending my real internship interview later, I will apply the same techniques and hopefully secure the position. This experience will not only enhance my confidence but also my self-awareness as a professional communicator.  
 
 ## (3) Mock Interview Video
 ### Evidence
-I recorded and submitted a mock interview video as part of my Work Readiness Training. The simulation was structured to replicate a real QA Engineer interview, including both technical and behavioral questions. I reviewed my recording afterward and received constructive feedback from my lecturer.  
+I recorded and submitted a mock interview video as part of my Work Readiness Training. The simulation was structured to replicate a real QA Tester interview, including both technical and behavioral questions. I reviewed my recording afterward and received constructive feedback from my lecturer.  
   
 ![Mock Interview Video Proof](images/Mock-Video-Proof.png) 
   
@@ -107,4 +108,13 @@ I needed to address the disagreement respectfully, ensuring that my feedback was
 I scheduled a short meeting with the developer to go through the bug step-by-step. Instead of being defensive, I calmly explained the testing process, shared screenshots, and provided the exact steps to reproduce the error. I maintained a polite tone, listened to their perspective, and focused on problem-solving rather than blame.  
   
 **Result:**
-The developer appreciated my professional approach, and we identified a minor configuration issue that caused the defect. This experience strengthened our working relationship and improved overall team communication. I learned that professionalism is not just about following rules — it’s about showing empathy, patience, and respect in every interaction. Maintaining workplace etiquette has since become a core part of how I operate in a professional environment.  
+The developer appreciated my professional approach, and we identified a minor configuration issue that caused the defect. This experience strengthened our working relationship and improved overall team communication. I learned that professionalism is not just about following rules, it’s about showing empathy, patience, and respect in every interaction. Maintaining workplace etiquette has since become a core part of how I operate in a professional environment.  
+
+## Conclusion
+The completion of this digital portfolio has been a meaningful reflection of my professional development and personal growth throughout the PRP372S Work Readiness Training. Each component of this portfolio has strengthened my understanding of what it truly means to be a capable, adaptable, and employable ICT professional.  
+  
+Through Business Communication, I learned to articulate ideas clearly and professionally, ensuring that my technical insights can be understood across departments. Interview Skills training equipped me with the confidence to present my strengths effectively, while the Mock Interview experience allowed me to apply those skills under realistic pressure, improving both my composure and communication clarity.  
+  
+Professional Networking has expanded my awareness of the industry and helped me form valuable connections that support my continuous learning journey. Finally, Workplace Etiquette taught me that professionalism goes beyond appearance or punctuality, it is about respect, empathy, and maintaining a positive attitude even during challenges.  
+  
+Overall, this portfolio highlights how each experience, from classroom learning to real-world application, has contributed to my readiness for the ICT workplace. I have not only grown as a Quality Assurance intern but also as a young professional who values integrity, teamwork, and lifelong learning. Moving forward, I will continue to apply these lessons to every professional opportunity, using them as the foundation for a successful and ethical career in technology.
