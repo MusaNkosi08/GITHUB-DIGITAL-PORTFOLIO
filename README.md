@@ -16,7 +16,9 @@ Each section includes artefacts and reflections based on the STAR Technique (Sit
 ## (1) Business Communication
   
 ### Evidence
-As part of my QA internship, I was actively involved in daily stand-up meetings, sprint planning discussions, and report presentations. I was responsible for documenting and communicating the outcomes of functional testing to both developers and the project manager. Additionally, I completed a LinkedIn Learning course titled “Developing Effective Business Communication Skills”, which focused on clarity, tone, and professionalism in workplace communication.
+As part of my QA internship, I was actively involved in daily stand-up meetings, sprint planning discussions, and report presentations. I was responsible for documenting and communicating the outcomes of functional testing to both developers and the project manager. Additionally, I completed a LinkedIn Learning course titled “Developing Effective Business Communication Skills”, which focused on clarity, tone, and professionalism in workplace communication.  
+![Business Communication Proof](images/business-communication-proof.png)  
+  
 ### Reflection (STAR Technique)
 **Situation:**
 During one of our sprint review meetings, I was assigned to present the results of the testing phase for a newly developed payment feature in our e-commerce application. The project manager emphasized that the presentation should be concise, data-driven, and understandable to non-technical stakeholders. 
