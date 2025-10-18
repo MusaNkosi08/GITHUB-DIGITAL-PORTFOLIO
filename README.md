@@ -56,7 +56,7 @@ The feedback I received was positive — my interviewer highlighted my professio
 ### Evidence
 I recorded and submitted a mock interview video as part of my Work Readiness Training. The simulation was structured to replicate a real QA Engineer interview, including both technical and behavioral questions. I reviewed my recording afterward and received constructive feedback from my lecturer.  
   
-![Mock Interview Video Proof](images/Mock-Interview-Video-Proof.png)  
+![Mock Interview Video Proof](images/Mock-Video-Proof.png) 
   
 ### Reflection (STAR Technique)
 **Situation:**
