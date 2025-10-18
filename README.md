@@ -17,7 +17,8 @@ Each section includes artefacts and reflections based on the STAR Technique (Sit
   
 ### Evidence
 As part of my QA internship, I was actively involved in daily stand-up meetings, sprint planning discussions, and report presentations. I was responsible for documenting and communicating the outcomes of functional testing to both developers and the project manager. Additionally, I completed a LinkedIn Learning course titled “Developing Effective Business Communication Skills”, which focused on clarity, tone, and professionalism in workplace communication.  
-![Business Communication Proof](images/Business Communication Proof.png)  
+  
+![Business Communication Proof](images/Business-Communication-Proof.png)  
   
 ### Reflection (STAR Technique)
 **Situation:**
@@ -34,7 +35,10 @@ The project manager commended my report for its clarity and professionalism, and
 
 ## (2) Interview Skills
 ### Evidence
-Before securing my internship, I attended a professional interview skills workshop as part of my PRP372S program. I also engaged in self-practice sessions by recording my responses to common QA interview questions, focusing on both technical and behavioral aspects.
+Before securing my internship, I attended a professional interview skills workshop as part of my PRP372S program. I also engaged in self-practice sessions by recording my responses to common QA interview questions, focusing on both technical and behavioral aspects.  
+  
+![Interview Skills Proof](images/Interview-Skills-Proof.png)  
+  
 ### Reflection (STAR Technique)
 **Situation:**
 When I began applying for QA internships, I realized that my technical skills alone would not be enough — I needed to effectively communicate my experience, strengths, and problem-solving abilities. During a mock interview session organized by the program, I was given the opportunity to practice real-world interview scenarios.  
@@ -51,6 +55,9 @@ The feedback I received was positive — my interviewer highlighted my professio
 ## (3) Mock Interview Video
 ### Evidence
 I recorded and submitted a mock interview video as part of my Work Readiness Training. The simulation was structured to replicate a real QA Engineer interview, including both technical and behavioral questions. I reviewed my recording afterward and received constructive feedback from my lecturer.  
+  
+![Mock Interview Video Proof](images/Mock-Interview-Video-Proof.png)  
+  
 ### Reflection (STAR Technique)
 **Situation:**
 For the mock interview assessment, I was required to simulate a QA position interview conducted by a senior team leader. The purpose was to assess my ability to handle formal questioning under pressure.  
@@ -66,7 +73,10 @@ The exercise helped me identify areas for growth — I needed to slow down when 
 
 ## (4) Professional Networking
 ### Evidence
-I created and developed my LinkedIn profile to reflect my academic and professional journey. I included details about my internship, LinkedIn Learning certificates, and university projects such as Roommate Roulette and Off Kulture E-commerce System. I connected with my lecturers, colleagues, and several professionals in the IT and QA fields.
+I created and developed my LinkedIn profile to reflect my academic and professional journey. I included details about my internship, LinkedIn Learning certificates, and university projects such as Roommate Roulette and Off Kulture E-commerce System. I connected with my lecturers, colleagues, and several professionals in the IT and QA fields.  
+  
+![Professional Networking Proof](images/Professional-Networking-Proof.png)  
+  
 ### Reflection (STAR Technique)
 **Situation:**
 At the start of my internship, I realized that networking was essential to career development. I wanted to establish a professional online presence where I could showcase my skills, interact with industry experts, and stay informed about the latest QA trends.  
@@ -82,7 +92,10 @@ Over time, my profile gained visibility, and I received several messages from re
 
 ## (5) Workplace Etiquette
 ### Evidence
-As part of my internship, I adhered to workplace protocols such as punctuality, teamwork, and professional communication. I also completed the Workplace Etiquette module, which focused on ethical behavior, respect, and emotional intelligence in the professional environment.
+As part of my internship, I adhered to workplace protocols such as punctuality, teamwork, and professional communication. I also completed the Workplace Etiquette module, which focused on ethical behavior, respect, and emotional intelligence in the professional environment.  
+  
+![Workplace Etiquette Proof](images/Workplace-Etiquette-Proof.png)  
+  
 ### Reflection (STAR Technique)
 **Situation:**
 During a testing cycle, I encountered a disagreement with a developer regarding a reported defect. The developer believed the issue was caused by user error, while my test results suggested otherwise.  
